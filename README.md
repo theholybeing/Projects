@@ -10,4 +10,4 @@ Languages: Python, C#, C++,Java etc.
 
 Frameworks: React, Django, Flask, TensorFlow, etc.
 
-Tools: Git, Docker, Jupyter Notebooks, etc.
+Tools: Git, Docker, Jupyter Notebooks, Kaggle etc.

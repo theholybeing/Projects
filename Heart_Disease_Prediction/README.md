@@ -14,7 +14,7 @@ Implementing Logistic Regression for classification
 Evaluating models using metrics like accuracy, confusion matrix, and classification report
 
 🛠️ Tools & Technologies:
-Python
+Python,
 Kaggle
 
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn

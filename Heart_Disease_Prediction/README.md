@@ -1,5 +1,7 @@
 Heart Disease Prediction using Logistic Regression
+
 📌 Overview
+
 I built a machine learning project to predict heart disease using Logistic Regression.
 The model achieved 88.5% accuracy on the UCI Heart Disease dataset.
 
